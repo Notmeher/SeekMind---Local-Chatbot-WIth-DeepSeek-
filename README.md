@@ -30,10 +30,6 @@ Run the application:
 - **DeepSeek AI**  
 - **Python 3.8+**  
 
-## Customization  
-- Change the AI model by modifying `get_chat_model()` in `app.py`.  
-- Update the UI styles using `st.markdown()` CSS settings.  
-
 ## License  
 This project is licensed under the MIT License.  
 
